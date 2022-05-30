@@ -1,0 +1,11 @@
+{
+    "heroes": [
+        {
+            "id": 1,
+            "nickname": "Superman",
+            "realName": "Clark Kent",
+            "origin": "Krytpon",
+            "description": "Superman was born on the fictional planet Krypton and was named Kal-El. As a baby, his parents sent him to Earth in a small spaceship moments before Krypton was destroyed in a natural cataclysm."
+        }
+    ]
+}
